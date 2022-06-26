@@ -1,0 +1,39 @@
+h1{
+    border: 1px solid red;
+    background-color: blue;
+    text-decoration: double;
+    font-style: italic;
+    
+}
+p{
+    background-color: indigo;
+    text-decoration: overline;
+    font-size: larger;
+    font: weight 6px;
+    margin: 4px;
+}
+body{
+    background-color: lawngreen;
+    border-radius: 10px;
+}
+.font{
+    color: blue;
+    font-size: xx-large;
+    border: dotted;
+    text-decoration: underline;
+    text-align: center;
+}
+#content{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: left;
+    
+}
+#activate-content{
+    color: red;
+    text-align: right;
+    font-style: normal;
+    font-size: 100;
+}
